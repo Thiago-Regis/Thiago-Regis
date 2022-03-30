@@ -23,6 +23,6 @@
  
  <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>  <a href="https://github.com/rafaballerini">Rafaella Ballerini <a href="https://github.com/rafaballerini"> Grande Samuel</p>
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>  <a href="https://github.com/rafaballerini">Rafaella Ballerini <a href="https://github.com/samuelscavassa"> Grande Samuel</p>
 </div>
 
