@@ -17,12 +17,12 @@
  
  <div align="center">
   
-  ![Snake animation](https://github.com/Thiago-Regis/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
  
  <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>  <a href="https://github.com/rafaballerini">Rafaella Ballerini <a href="https://github.com/samuelscavassa"> Grande Samuel</p>
+  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> , <a href="https://github.com/rafaballerini">Rafaella Ballerini e <a href="https://github.com/samuelscavassa"> Grande Samuel</p>
 </div>
 
