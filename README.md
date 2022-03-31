@@ -23,7 +23,7 @@
  
  <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> , <a href="https://github.com/rafaballerini">Rafaella Ballerini e <a href="https://github.com/samuelscavassa"> Grande Samuel</p>
+  <p> Créditos:  <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> , <a href="https://github.com/samuelscavassa"> Grande Samuel </a> e <a href="https://github.com/ELLEN2121/ELLEN2121/blob/main/.github/workflows/main.yml"> Ellen Maria</a> </p>
 </div>
 
 
