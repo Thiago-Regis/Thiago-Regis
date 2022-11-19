@@ -21,7 +21,7 @@
  
  <div align="center">
   <p>Feito com :heart: e JavaScript.</p>
-  <p> Créditos:  <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> , <a href="https://github.com/samuelscavassa"> Samuel </a> e <a                             href="https://github.com/ELLEN2121"> Ellen Maria</a> </p>
+  <p> Créditos:  <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> , <a href="https://github.com/samuelscavassa"> Samuel </a> e <a                         href="https://github.com/ELLEN2121"> Ellen Maria</a> </p>
  </div>
 
 
