@@ -1,5 +1,5 @@
 ### Olá! Bem vindo ao perfil de Thiago-Regis 👋
-<p>Bebidas no Final da Pagina fique a vontade</p>
+<p>Café no Final da Pagina fique a vontade</p>
 <div align="center">
   <a href="https://github.com/Thiago-Regis">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Thiago-Regis&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
@@ -25,5 +25,9 @@
   <p>Feito com :heart: e JavaScript.</p>
   <p> Créditos:  <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> , <a href="https://github.com/samuelscavassa"> Samuel </a> e <a                         href="https://github.com/ELLEN2121"> Ellen Maria</a> </p>
  </div>
+  
+  <div align = "center">
+    <img height="120em" src="https://media.tenor.com/UHqZCx1Jrc4AAAAM/milk-mocha.gif"/>
+  <\div>
 
 
