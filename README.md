@@ -26,8 +26,7 @@
   <p> Créditos:  <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> , <a href="https://github.com/samuelscavassa"> Samuel </a> e <a                         href="https://github.com/ELLEN2121"> Ellen Maria</a> </p>
  </div>
   
-  <div align = "center">
-   <img height="120em" src="https://media.tenor.com/UHqZCx1Jrc4AAAAM/milk-mocha.gif"/>
-  <\div>
+ <img height="120em" src="https://media.tenor.com/UHqZCx1Jrc4AAAAM/milk-mocha.gif"/>
+ 
 
 
