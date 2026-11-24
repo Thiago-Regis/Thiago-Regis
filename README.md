@@ -16,17 +16,16 @@ Trabalho criando agentes com LLMs, modelos de visão computacional e automaçõe
 - **IA & Visão Computacional**: Agentes com LLMs, RAG com ChromaDB, OpenWebUI e modelos com PyTorch, SAM3, YOLO e GeoAI para análise de imagens aéreas/360° e automação de rotinas.
 - **Automação & Dados**: Fluxos no **n8n**, integrações geoespaciais (`PostgreSQL / PostGIS` e `ArcScripting / ESRI`) e sistemas internos com **Python, Flask e FastAPI**.
 - **Infraestrutura Cloud & Segurança**: Ambientes em **Oracle Cloud (OCI)** e **AWS** (incluindo GPUs A100 sob demanda), containers com **Docker/Portainer** e monitoramento/segurança com **Zabbix, Wazuh, Suricata e Sophos**.
-- **Produtos em produção**: Criador do **[NhanUp](https://nhanup.com.br/)** (plataforma educacional com IA) e do **[Prompt Aberto](https://promptaberto.com.br/)**. Confira todos os projetos em **[thiagoregis.cloud](https://thiagoregis.cloud/)**.
 
 ---
 
 ### 🧰 Tecnologias que uso
 
-<div style="display: inline_block"><br>
+<div>
   <img align="center" alt="Python" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PyTorch" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
   <img align="center" alt="FastAPI" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg">
-  <img align="center" alt="Flask" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img align="center" alt="Flask" height="32" width="42" src="https://cdn.simpleicons.org/flask/ffffff">
   <img align="center" alt="OpenCV" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg">
   <img align="center" alt="PostgreSQL" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Oracle" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
@@ -38,23 +37,27 @@ Trabalho criando agentes com LLMs, modelos de visão computacional e automaçõe
   <img align="center" alt="Git" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
+<br>
+
 `LLMs / RAG` · `SAM3 / YOLO` · `ChromaDB` · `n8n` · `PostGIS / QGIS` · `Oracle Cloud (OCI)` · `Zabbix / Wazuh`
 
 ---
 
 <div align="center">
   <a href="https://thiagoregis.cloud/">
-    <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thiago-Regis&show_icons=true&bg_color=060c14&title_color=22d3ee&text_color=eef2f7&icon_color=38bdf8&border_color=182535&include_all_commits=true&count_private=true"/>
-    <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thiago-Regis&layout=compact&langs_count=7&bg_color=060c14&title_color=22d3ee&text_color=eef2f7&border_color=182535"/>
+    <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thiago-Regis&theme=tokyonight" alt="GitHub Stats" />
+    <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thiago-Regis&theme=tokyonight" alt="Top Languages" />
   </a>
 </div>
 
 <div align="center">
-
-  ![Snake animation](https://github.com/Thiago-Regis/Thiago-Regis/blob/output/github-contribution-grid-snake.svg)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thiago-Regis/Thiago-Regis/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thiago-Regis/Thiago-Regis/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Thiago-Regis/Thiago-Regis/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 <div align="center">
-  <img height="90em" src="https://media.tenor.com/UHqZCx1Jrc4AAAAM/milk-mocha.gif"/>
+  <img height="90em" src="https://media.tenor.com/UHqZCx1Jrc4AAAAM/milk-mocha.gif" alt="Coffee" />
 </div>
