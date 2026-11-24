@@ -2,9 +2,9 @@
 
 **Analista de IA · Automação · Dados · Infraestrutura Cloud**
 
-Trabalho criando agentes com LLMs, modelos de visão computacional e automações que tornam processos de TI mais rápidos, rastreáveis e inteligentes — do código à infraestrutura que sustenta.
+Trabalho criando agentes com LLMs, modelos de visão computacional e automações que tornam processos de TI mais rápidos, rastreáveis e inteligentes.
 
-[![Portfólio](https://img.shields.io/badge/🌐_thiagoregis.cloud-0a121d?style=for-the-badge&labelColor=0a121d&color=22d3ee)](https://thiagoregis.cloud/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a121d?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/thiago-de-carvalho-regis)
 [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-0a121d?style=for-the-badge&logoColor=fbbf24)](https://huggingface.co/thitis)
 [![Email](https://img.shields.io/badge/Email-0a121d?style=for-the-badge&logo=gmail&logoColor=34d399)](mailto:thiagocarvalhoregis@gmail.com)
@@ -16,6 +16,7 @@ Trabalho criando agentes com LLMs, modelos de visão computacional e automaçõe
 - **IA & Visão Computacional**: Agentes com LLMs, RAG com ChromaDB, OpenWebUI e modelos com PyTorch, SAM3, YOLO e GeoAI para análise de imagens aéreas/360° e automação de rotinas.
 - **Automação & Dados**: Fluxos no **n8n**, integrações geoespaciais (`PostgreSQL / PostGIS` e `ArcScripting / ESRI`) e sistemas internos com **Python, Flask e FastAPI**.
 - **Infraestrutura Cloud & Segurança**: Ambientes em **Oracle Cloud (OCI)** e **AWS** (incluindo GPUs A100 sob demanda), containers com **Docker/Portainer** e monitoramento/segurança com **Zabbix, Wazuh, Suricata e Sophos**.
+- **Produtos em produção**: Criador do **[NhanUp](https://nhanup.com.br/)** (plataforma educacional com IA) e do **[Prompt Aberto](https://promptaberto.com.br/)**.
 
 ---
 
@@ -36,11 +37,7 @@ Trabalho criando agentes com LLMs, modelos de visão computacional e automaçõe
   <img align="center" alt="React" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Git" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
-
 <br>
-
-`LLMs / RAG` · `SAM3 / YOLO` · `ChromaDB` · `n8n` · `PostGIS / QGIS` · `Oracle Cloud (OCI)` · `Zabbix / Wazuh`
-
 ---
 
 <div align="center">
