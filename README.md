@@ -38,8 +38,6 @@ Trabalho criando agentes com LLMs, modelos de visão computacional e automaçõe
   <img align="center" alt="Git" height="32" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 <br>
-`LLMs / RAG` · `SAM3 / YOLO` · `ChromaDB` · `n8n` · `PostGIS / QGIS` · `Oracle Cloud (OCI)` · `Zabbix / Wazuh`
-
 ---
 
 <div align="center">
