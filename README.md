@@ -16,7 +16,7 @@ Trabalho criando agentes com LLMs, modelos de visão computacional e automaçõe
 - **IA & Visão Computacional**: Agentes com LLMs, RAG com ChromaDB, OpenWebUI e modelos com PyTorch, SAM3, YOLO e GeoAI para análise de imagens aéreas/360° e automação de rotinas.
 - **Automação & Dados**: Fluxos no **n8n**, integrações geoespaciais (`PostgreSQL / PostGIS` e `ArcScripting / ESRI`) e sistemas internos com **Python, Flask e FastAPI**.
 - **Infraestrutura Cloud & Segurança**: Ambientes em **Oracle Cloud (OCI)** e **AWS** (incluindo GPUs A100 sob demanda), containers com **Docker/Portainer** e monitoramento/segurança com **Zabbix, Wazuh, Suricata e Sophos**.
-- **Produtos em produção**: Criador do **[NhanUp](https://nhanup.com.br/)** (plataforma educacional com IA) e do **[Prompt Aberto](https://promptaberto.com.br/)**. Confira todos os projetos em **[thiagoregis.cloud](https://thiagoregis.cloud/)**.
+- **Produtos em produção**: Criador do **[NhanUp](https://nhanup.com.br/)** (plataforma educacional com IA) e do **[Prompt Aberto](https://promptaberto.com.br/)**.
 
 ---
 
