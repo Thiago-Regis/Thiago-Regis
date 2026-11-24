@@ -4,7 +4,7 @@
 
 Trabalho criando agentes com LLMs, modelos de visão computacional e automações que tornam processos de TI mais rápidos, rastreáveis e inteligentes.
 
-[![Portfólio](https://img.shields.io/badge/🌐_thiagoregis.cloud-0a121d?style=for-the-badge&labelColor=0a121d&color=22d3ee)](https://thiagoregis.cloud/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a121d?style=for-the-badge&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/thiago-de-carvalho-regis)
 [![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-0a121d?style=for-the-badge&logoColor=fbbf24)](https://huggingface.co/thitis)
 [![Email](https://img.shields.io/badge/Email-0a121d?style=for-the-badge&logo=gmail&logoColor=34d399)](mailto:thiagocarvalhoregis@gmail.com)
